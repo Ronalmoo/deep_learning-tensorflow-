@@ -1,0 +1,12 @@
+keras
+matplotlib
+numpy
+tensorflow
+scikit_learn
+# mxnet
+# sklearn
+# chainer
+# torch
+# torchvision
+tqdm
+pylint
